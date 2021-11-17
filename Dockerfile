@@ -1,4 +1,4 @@
-FROM akashhadge/dockertomcat
+FROM akashhadge/dockertomcat:v1
 LABEL Author="akashhadge"
 LABEL description="Use dockertomcat image as base image for dockertomcat deployment"
 USER root
